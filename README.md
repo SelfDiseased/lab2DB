@@ -1,1 +1,1 @@
-![alt text](https://ibb.co/5RvGnFn)
+![alt text](https://i.ibb.co/jrGbWRW/lab2.jpg)
