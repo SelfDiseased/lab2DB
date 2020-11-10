@@ -1,13 +1,12 @@
 const { Pool } = require('pg');
 
 const {
-    PG_USER='postgres',
-    PG_HOST='localhost',
-    PG_NAME='lab1',
-    PG_PORT=5432,
-    PG_PASSWORD=22812345,
+    PG_USER,
+    PG_HOST,
+    PG_NAME,
+    PG_PORT,
+    PG_PASSWORD,
 } = process.env;
-console.log(PG_USER)
 
 const poolOptions = {
     user : PG_USER,
